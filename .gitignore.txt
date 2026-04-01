@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Generated outputs (don’t commit)
+jobs.xlsx
+seen.txt
+job_search.log
+
+# VS Code
+.vscode/
